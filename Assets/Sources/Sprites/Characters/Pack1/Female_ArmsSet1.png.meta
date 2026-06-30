@@ -1,0 +1,848 @@
+fileFormatVersion: 2
+guid: 4376ef57e0d247849b48407199b68f78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6983201308921657257
+    second: UA_R_Nisit
+  - first:
+      213: 4060792822063312430
+    second: UA_R_Battle
+  - first:
+      213: -1157076966282798803
+    second: FA_R_Nisit
+  - first:
+      213: -8153593911819340307
+    second: FA_R_Battle
+  - first:
+      213: 6002811523358672574
+    second: HN_R_Nisit
+  - first:
+      213: 4192725182046611898
+    second: HN_R_Battle
+  - first:
+      213: 1446426905514536811
+    second: UA_L_Nisit
+  - first:
+      213: 2677701941296112409
+    second: UA_L_Battle
+  - first:
+      213: 8430411554077197455
+    second: FA_L_Nisit
+  - first:
+      213: -6082372276191085727
+    second: FA_L_Battle
+  - first:
+      213: -3072533144561692211
+    second: HN_L_Nisit
+  - first:
+      213: 1358778867740536818
+    second: HN_L_Battle
+  - first:
+      213: -8992631955071291595
+    second: HN_R_Suit
+  - first:
+      213: -2993615644951128109
+    second: UA_L_Suit
+  - first:
+      213: -6800381973962010303
+    second: FA_L_Suit
+  - first:
+      213: -1239591140780106464
+    second: HN_L_Suit
+  - first:
+      213: -4768580302364613225
+    second: UA_R_Suit
+  - first:
+      213: -5743565114745245968
+    second: FA_R_Suit
+  - first:
+      213: -1554780594490554620
+    second: UA_R_Xmas
+  - first:
+      213: -5797008215003276903
+    second: FA_R_Xmas
+  - first:
+      213: -2236899099358187265
+    second: HN_R_Xmas
+  - first:
+      213: 7222295564235716428
+    second: UA_L_Xmas
+  - first:
+      213: -3209337937250814209
+    second: FA_L_Xmas
+  - first:
+      213: -8889407433121887432
+    second: HN_L_Xmas
+  - first:
+      213: 1992375517186829877
+    second: UA_R_LabCoa
+  - first:
+      213: -687872076335805665
+    second: FA_R_LabCoat
+  - first:
+      213: 907600111399381677
+    second: HN_R_LabCoat
+  - first:
+      213: 4752789927613608983
+    second: UA_L_LabCoat
+  - first:
+      213: 2423068577533565989
+    second: FA_L_LabCoat
+  - first:
+      213: -7935400468112644739
+    second: HN_L_LabCoat
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UA_R_Nisit
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 521
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7588eaa786fa61f90800000000000000
+      internalID: -6983201308921657257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UA_R_Battle
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 521
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e2a818e85da5830800000000000000
+      internalID: 4060792822063312430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_R_Nisit
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 428
+        width: 79
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d295dee21ac31ffe0800000000000000
+      internalID: -1157076966282798803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_R_Battle
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 428
+        width: 79
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5783b698d98de80800000000000000
+      internalID: -8153593911819340307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HN_R_Nisit
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 318
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb64a67b6454e4350800000000000000
+      internalID: 6002811523358672574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HN_R_Battle
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 317
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab929bcc65d8f2a30800000000000000
+      internalID: 4192725182046611898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UA_L_Nisit
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 213
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fe2c86b9db21410800000000000000
+      internalID: 1446426905514536811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UA_L_Battle
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 218
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91324518abb192520800000000000000
+      internalID: 2677701941296112409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_L_Nisit
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 127
+        width: 75
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84ce1764a6def470800000000000000
+      internalID: 8430411554077197455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_L_Battle
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 128
+        width: 75
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b32fdf3a2179ba0800000000000000
+      internalID: -6082372276191085727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HN_L_Nisit
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 22
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc159cd426b2c55d0800000000000000
+      internalID: -3072533144561692211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HN_L_Battle
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 20
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff6bfb5e2a5bd210800000000000000
+      internalID: 1358778867740536818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HN_R_Suit
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 318
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f2622c1e0c33380800000000000000
+      internalID: -8992631955071291595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UA_L_Suit
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 218
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7d2a88e6a8476d0800000000000000
+      internalID: -2993615644951128109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_L_Suit
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 127
+        width: 79
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1415609ef9030a1a0800000000000000
+      internalID: -6800381973962010303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HN_L_Suit
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 22
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d9413dc661ccee0800000000000000
+      internalID: -1239591140780106464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UA_R_Suit
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 518
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795e1a2ea7992ddb0800000000000000
+      internalID: -4768580302364613225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_R_Suit
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 430
+        width: 79
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fea84775f1ca40b0800000000000000
+      internalID: -5743565114745245968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UA_R_Xmas
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 519
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40748b1794f4c6ae0800000000000000
+      internalID: -1554780594490554620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_R_Xmas
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 430
+        width: 79
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99955b80eb3ec8fa0800000000000000
+      internalID: -5797008215003276903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HN_R_Xmas
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 318
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff03d58ee10f4f0e0800000000000000
+      internalID: -2236899099358187265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UA_L_Xmas
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 219
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c473621ec8fba3460800000000000000
+      internalID: 7222295564235716428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_L_Xmas
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 128
+        width: 74
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6fafd56242673d0800000000000000
+      internalID: -3209337937250814209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HN_L_Xmas
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 22
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b8d05a90b72a480800000000000000
+      internalID: -8889407433121887432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UA_R_LabCoa
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 519
+        width: 51
+        height: 76
+      alignment: 9
+      pivot: {x: 0.4885948, y: 0.5114802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e2b111af656ab10800000000000000
+      internalID: 1992375517186829877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_R_LabCoat
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 430
+        width: 80
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b0817bdff2476f0800000000000000
+      internalID: -687872076335805665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HN_R_LabCoat
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 318
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daaa01e1e71789c00800000000000000
+      internalID: 907600111399381677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UA_L_LabCoat
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 218
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714b67ff14d45f140800000000000000
+      internalID: 4752789927613608983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_L_LabCoat
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 104
+        width: 76
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c9c46880870a120800000000000000
+      internalID: 2423068577533565989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HN_L_LabCoat
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 22
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d756dab515bcfd190800000000000000
+      internalID: -7935400468112644739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

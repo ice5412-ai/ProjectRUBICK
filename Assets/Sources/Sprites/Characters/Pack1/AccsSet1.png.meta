@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: ef386cf513fbd91469c950e533b8ca3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5303628722017423524
+    second: NW_Xmas2
+  - first:
+      213: 1200269631709210272
+    second: ACC_null
+  - first:
+      213: 5219710090819583401
+    second: FHat_Xmas2
+  - first:
+      213: -9097079620125875743
+    second: FHat_Kitsune2
+  - first:
+      213: 9000448516594088960
+    second: BHat_Kitsune2
+  - first:
+      213: 7253954803345985679
+    second: Tail_Kitsune2
+  - first:
+      213: 5645958339396088348
+    second: NK_CAPE
+  - first:
+      213: -1626091819614962340
+    second: NK_Neck
+  - first:
+      213: 5198415168470733251
+    second: Male_AccsSet1_2
+  - first:
+      213: -6291833375427101117
+    second: FH_Santa
+  - first:
+      213: -6761105977878281307
+    second: FH_Kitsune
+  - first:
+      213: 998759629076670852
+    second: FH_HeadGear
+  - first:
+      213: -3258104281676825807
+    second: FH_Barret
+  - first:
+      213: -4495329244126319968
+    second: BH_Kitsune
+  - first:
+      213: 1188312153558831989
+    second: TL_Kitsune
+  - first:
+      213: -1105963123808546140
+    second: Male_AccsSet1_9
+  - first:
+      213: -6367194614273294781
+    second: FC_SunGlasses
+  - first:
+      213: 9144486334563726579
+    second: FC_SunGlassesBread
+  - first:
+      213: 7425891117218313328
+    second: FC_SantaMustache
+  - first:
+      213: -8201658803665572653
+    second: FC_SantaBread
+  - first:
+      213: -6845636660363217950
+    second: EmptySlot
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NK_CAPE
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 680
+        width: 194
+        height: 91
+      alignment: 9
+      pivot: {x: 0.4912083, y: 0.50763434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12bb5432397a5e40800000000000000
+      internalID: 5645958339396088348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NK_Neck
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 719
+        width: 121
+        height: 51
+      alignment: 9
+      pivot: {x: 0.3878232, y: 0.17003557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d7eaffa16fe69e0800000000000000
+      internalID: -1626091819614962340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_AccsSet1_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 676
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c153b7ad0b742840800000000000000
+      internalID: 5198415168470733251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FH_Santa
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 452
+        width: 357
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5377135, y: 0.55693156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e78bf61eaeea8a0800000000000000
+      internalID: -6291833375427101117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FH_Kitsune
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 461
+        width: 129
+        height: 156
+      alignment: 9
+      pivot: {x: 1.0530427, y: 0.6483209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a38bcb5fe9bb22a0800000000000000
+      internalID: -6761105977878281307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FH_HeadGear
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 322
+        width: 407
+        height: 316
+      alignment: 9
+      pivot: {x: 0.44934216, y: 0.846424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489ad1b479e4cdd00800000000000000
+      internalID: 998759629076670852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FH_Barret
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 422
+        width: 402
+        height: 213
+      alignment: 9
+      pivot: {x: 0.4433293, y: 0.7860096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b39710b63e8c2d0800000000000000
+      internalID: -3258104281676825807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BH_Kitsune
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 315
+        width: 122
+        height: 119
+      alignment: 9
+      pivot: {x: -0.37932998, y: 0.47609654}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aaec67aed16d91c0800000000000000
+      internalID: -4495329244126319968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TL_Kitsune
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 6
+        width: 141
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57357239b9bbd7010800000000000000
+      internalID: 1188312153558831989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FC_SunGlasses
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 346
+        width: 264
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34eb570bb3e23a7a0800000000000000
+      internalID: -6367194614273294781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FC_SunGlassesBread
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 262
+        width: 264
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5016461, y: 0.77969074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4b5192fddb7ee70800000000000000
+      internalID: 9144486334563726579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FC_SantaMustache
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 134
+        width: 170
+        height: 47
+      alignment: 9
+      pivot: {x: 0.23944882, y: 1.7666963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074b68680a01e0760800000000000000
+      internalID: 7425891117218313328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FC_SantaBread
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 37
+        width: 232
+        height: 138
+      alignment: 9
+      pivot: {x: 0.3732271, y: 1.2172338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcee86b5cadd2e80800000000000000
+      internalID: -8201658803665572653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptySlot
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 48
+        width: 262
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3b8a52ab96ff0a0800000000000000
+      internalID: -6845636660363217950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,848 @@
+fileFormatVersion: 2
+guid: 6f6c3ec7afc92ca4dbdf71d4ac15fe54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1829215843652948708
+    second: UA_R_Nisit2
+  - first:
+      213: 8913406037183021691
+    second: FA_R_Nisit2
+  - first:
+      213: 8640634024669889800
+    second: HN_R_Nisit2
+  - first:
+      213: 5522476166984638893
+    second: UA_L_Nisit2
+  - first:
+      213: 5582996567114534438
+    second: FA_L_Nisit2
+  - first:
+      213: 8924277708472253162
+    second: HN_L_Nisit2
+  - first:
+      213: 8993291240514866942
+    second: UA_R_MBattle
+  - first:
+      213: 6111271607672255942
+    second: UA_R_MSuit
+  - first:
+      213: 4759616845777939421
+    second: UA_R_MSanta
+  - first:
+      213: 6617780701583482560
+    second: UA_R_MLab
+  - first:
+      213: -2426626220472821201
+    second: FA_R_MBattle
+  - first:
+      213: -4463139562943161091
+    second: FA_R_MSuit
+  - first:
+      213: -7754247099035104921
+    second: FA_R_MSanta
+  - first:
+      213: -3359675123260535534
+    second: FA_R_MLab
+  - first:
+      213: -731863122671747936
+    second: HN_R_MBattle
+  - first:
+      213: 757550080120835448
+    second: HN_R_MSuit
+  - first:
+      213: -3399390630426672008
+    second: HN_R_MSanta
+  - first:
+      213: 847474198974142860
+    second: HN_R_MLab
+  - first:
+      213: -4173817409086659935
+    second: UA_L_MBattle
+  - first:
+      213: -3159741517306697515
+    second: UA_L_MSuit
+  - first:
+      213: -5050081332963990175
+    second: UA_L_MSanta
+  - first:
+      213: -2167369518050785242
+    second: UA_L_MLab
+  - first:
+      213: -5061655066716624134
+    second: FA_L_MBattle
+  - first:
+      213: -5497579219580764551
+    second: FA_L_MSuit
+  - first:
+      213: 2476070051810975031
+    second: FA_L_MXmas
+  - first:
+      213: -5657767279785992976
+    second: FA_L_MLab
+  - first:
+      213: 1026724648835980533
+    second: HN_L_MBattle
+  - first:
+      213: -6326769740396194776
+    second: HN_L_MSuit
+  - first:
+      213: -6857539442462266968
+    second: HN_L_MSanta
+  - first:
+      213: -8471264585356794737
+    second: HN_L_MLab
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UA_R_Nisit2
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 521
+        width: 47
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dac8db1e15d96e0800000000000000
+      internalID: -1829215843652948708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_R_Nisit2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 428
+        width: 79
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72cd19c097c2bb70800000000000000
+      internalID: 8913406037183021691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HN_R_Nisit2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 318
+        width: 48
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8054a9a8dd2b9e770800000000000000
+      internalID: 8640634024669889800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UA_L_Nisit2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 218
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da12ea580d6c3ac40800000000000000
+      internalID: 5522476166984638893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_L_Nisit2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 130
+        width: 74
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e461d3cc9ca7d40800000000000000
+      internalID: 5582996567114534438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HN_L_Nisit2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 23
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeafc620b4769db70800000000000000
+      internalID: 8924277708472253162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UA_R_MBattle
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 518
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe45881cb69ecc70800000000000000
+      internalID: 8993291240514866942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UA_R_MSuit
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 517
+        width: 90
+        height: 83
+      alignment: 9
+      pivot: {x: 0.72608185, y: 0.5172038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c53c35f5299fc450800000000000000
+      internalID: 6111271607672255942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UA_R_MSanta
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 515
+        width: 45
+        height: 84
+      alignment: 9
+      pivot: {x: 0.6025967, y: 0.48731413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb2f8fbd4e8d0240800000000000000
+      internalID: 4759616845777939421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UA_R_MLab
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 518
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce915f4c7417db50800000000000000
+      internalID: 6617780701583482560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_R_MBattle
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 430
+        width: 78
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4429429, y: 0.5326795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a911e2f44e25ed0800000000000000
+      internalID: -2426626220472821201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_R_MSuit
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 431
+        width: 77
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcd7c7d63ebf02c0800000000000000
+      internalID: -4463139562943161091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_R_MSanta
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 429
+        width: 80
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769c861e851636490800000000000000
+      internalID: -7754247099035104921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_R_MLab
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 397
+        width: 80
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5000008, y: 0.7668804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dc65596490061d0800000000000000
+      internalID: -3359675123260535534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HN_R_MBattle
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 320
+        width: 70
+        height: 66
+      alignment: 9
+      pivot: {x: 0.41436464, y: 0.48864838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac31f41e56e7d5f0800000000000000
+      internalID: -731863122671747936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HN_R_MSuit
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 317
+        width: 51
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5440779, y: 0.53355205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dcb21c8cb538a00800000000000000
+      internalID: 757550080120835448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HN_R_MSanta
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 319
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87480ac7b30f2d0d0800000000000000
+      internalID: -3399390630426672008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HN_R_MLab
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 316
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89992a3b45d2cb00800000000000000
+      internalID: 847474198974142860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UA_L_MBattle
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 220
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a26c062e2f9316c0800000000000000
+      internalID: -4173817409086659935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UA_L_MSuit
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 217
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d861eeb4d75624d0800000000000000
+      internalID: -3159741517306697515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UA_L_MSanta
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 219
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165a9ddb8c18ae9b0800000000000000
+      internalID: -5050081332963990175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UA_L_MLab
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 217
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628c29318e4fbe1e0800000000000000
+      internalID: -2167369518050785242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_L_MBattle
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 128
+        width: 70
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afaacccd88361c9b0800000000000000
+      internalID: -5061655066716624134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_L_MSuit
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 127
+        width: 69
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97eb154c3dca4b3b0800000000000000
+      internalID: -5497579219580764551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_L_MXmas
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 126
+        width: 65
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d1d25e794cc5220800000000000000
+      internalID: 2476070051810975031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_L_MLab
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 91
+        width: 65
+        height: 71
+      alignment: 9
+      pivot: {x: 0.53008187, y: 0.7891669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc178a92a29b71b0800000000000000
+      internalID: -5657767279785992976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HN_L_MBattle
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 20
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc9108d0a8af3e00800000000000000
+      internalID: 1026724648835980533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HN_L_MSuit
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 23
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8249ef7117cc238a0800000000000000
+      internalID: -6326769740396194776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HN_L_MSanta
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 19
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a96ecab53025d0a0800000000000000
+      internalID: -6857539442462266968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HN_L_MLab
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 19
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8426770eb5007a80800000000000000
+      internalID: -8471264585356794737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Weapon
+  - DeadZone
+  - SpawnPoint
+  - Item
+  - WeaponUI
+  - LocalWeapon
+  - LocalBullet
+  - LocalPlayer
+  - UIController
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BackWall
+  - mouseAimMask
+  - Player
+  - Wall
+  - 3DPlayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Players
+    uniqueID: 3453829565
+    locked: 0
+  - name: FrontProps
+    uniqueID: 2644647225
+    locked: 0
+  - name: BackProps
+    uniqueID: 2483853053
+    locked: 0

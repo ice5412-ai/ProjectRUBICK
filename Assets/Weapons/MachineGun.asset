@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f084f8235efb6574b942369d4cda074b, type: 3}
+  m_Name: MachineGun
+  m_EditorClassIdentifier: 
+  itemType: 4
+  weaponName: MachineGun
+  attackDamage: 0
+  attackForce: 10
+  attackSpd: 0.25
+  art: {fileID: -7962009975611055163, guid: f06d12409223e5b47b05e70f14aa425f, type: 3}
+  isRange: 1
+  attackRange: 0
+  bullet: {fileID: 1756201269929883537, guid: 645ecdda1b2971848a49f649826b5f70, type: 3}

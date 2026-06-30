@@ -1,0 +1,45 @@
+# System files
+Thumbs.db
+Thumbs.db.meta
+*.DS_Store
+*.directory
+.vs
+.vscode
+
+# Build files
+*.apk
+*.obb
+
+# Visual Studio files
+*.cachefile
+*.csproj
+*.pidb
+*.sln
+*.suo
+*.unityproj
+*.user
+*.userprefs
+*.v11
+*.v12
+
+# Folder to exclude
+[Bb]in
+[Rr]elease*/
+[Bb]uilds/
+ipch/
+[Ll]ibrary/
+obj/
+[Tt]emp/
+UWP/
+[Ww]indowsStore/
+WS/
+UnityVS/
+UnityVS.meta
+
+# Substance cache folder
+.SourceCache/
+
+# Folders to keep
+!Assets/Vendors/InControl/Source/Debug/
+
+/Assets/StreamingAssets/JsonData/
