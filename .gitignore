@@ -35,6 +35,9 @@ UWP/
 WS/
 UnityVS/
 UnityVS.meta
+Logs/
+.idea/
+
 
 # Substance cache folder
 .SourceCache/
